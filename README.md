@@ -1,6 +1,6 @@
 ### Developer Profile 👨‍💻
 ---
-I am Edgar Snow! Also known by my online alias as Ouro!
+I am **Edgar Snow**! Also known by my online alias as **Ouro**!
 
 <a href="https://app.daily.dev/ouro"><img src="https://api.daily.dev/devcards/d169f99fd5f4462db77acd366df36dfa.png?r=2l5" width="400" alt="Edgar Snow's Dev Card"/></a>
 <!--
